@@ -5,8 +5,8 @@ import Sidebar from "@/components/Sidebar";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Boom",
-  description: "Video calling app",
+  title: "Floks- Video Meetings",
+  description: "A video conference tool created by jayachandra in 2024",
   icons: {
     icon: "/icons/logo.svg",
   },

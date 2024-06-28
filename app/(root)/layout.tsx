@@ -3,8 +3,8 @@ import { Metadata } from "next";
 import React, { ReactNode } from "react";
 
 export const metadata: Metadata = {
-  title: "Boom",
-  description: "Video calling app",
+  title: "Floks- Video Meetings",
+  description: "A video conference tool created by jayachandra in 2024",
   icons: {
     icon: "/icons/logo.svg",
   },

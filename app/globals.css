@@ -77,6 +77,9 @@
 .cl-internal-wkkub3 {
   color: white;
 }
+.cl-internal-2im6sq{
+  box-shadow: none !important;
+}
 .cl-userButtonPopoverActionButton {
   color: white;
 }
@@ -114,5 +117,11 @@
   100% {
     animation-timing-function: ease-in;
     width: 100%;
+  }
+}
+
+@media screen and (max-width:30em) {
+  .cl-internal-objb41{
+    grid-template-columns:repeat(3,1fr) !important;
   }
 }
