@@ -77,7 +77,7 @@
 .cl-internal-wkkub3 {
   color: white;
 }
-.cl-internal-2im6sq{
+.cl-internal-2im6sq {
   box-shadow: none !important;
 }
 .cl-userButtonPopoverActionButton {
@@ -85,6 +85,25 @@
 }
 .cl-socialButtonsProviderIcon__github {
   filter: invert(1);
+}
+.cl-userButtonPopoverActionButton:hover {
+  color: white;
+}
+.cl-internal-1n6yo8n {
+  color: white;
+}
+.return-home-btn-nf {
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 7px 8px;
+  font-size: 14px;
+  font-weight: 600;
+  padding-bottom: 9px;
+  transition: 0.2s all ease;
+}
+.return-home-btn-nf:hover {
+  color: rgba(22, 25, 37, 1);
+  background-color: white;
 }
 
 /* =============================== */
@@ -120,8 +139,8 @@
   }
 }
 
-@media screen and (max-width:30em) {
-  .cl-internal-objb41{
-    grid-template-columns:repeat(3,1fr) !important;
+@media screen and (max-width: 30em) {
+  .cl-internal-objb41 {
+    grid-template-columns: repeat(3, 1fr) !important;
   }
 }
