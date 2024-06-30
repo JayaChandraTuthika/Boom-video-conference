@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Floks- Video Meetings",
   description: "A video conference tool created by jayachandra in 2024",
   icons: {
-    icon: "/icons/logo.svg",
+    icon: "/images/logo-new.svg",
   },
 };
 
